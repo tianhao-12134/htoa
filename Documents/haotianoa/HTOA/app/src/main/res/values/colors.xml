@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="gray">#cdcdcd</color>
+    <color name="white">#ffffff</color>
+    <color name="loginbtnselect">#0000FF</color>
+    <color name="loginbtn">#587BF9</color>
+    <!-- home font color -->
+    <color name="font_home_nav_normal">#3c3c3c</color>
+    <color name="font_home_nav_checked">#ff6600</color>
+    <color name="bluetextback">#1296db</color>
+</resources>

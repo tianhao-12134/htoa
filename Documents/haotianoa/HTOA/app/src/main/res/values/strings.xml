@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">浩天OA</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">登录
+    </string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">账号错误</string>
+    <string name="error_invalid_password">密码错误</string>
+    <string name="error_incorrect_password">账号密码错误,请重新输入</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="loginID">请输入账号</string>
+    <string name="loginPassword">请输入密码</string>
+    <string name="loginsuccess">登陆成功</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
